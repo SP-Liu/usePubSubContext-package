@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "types": [],
+    "jsx": "react-jsx",
+    "sourceMap": true,
+    "outDir": "dist",
+    "strict": true,
+    "target": "ES2015",
+    "module": "commonjs",
+    "declaration": true,
+    "resolveJsonModule": true,
+    "rootDir": "./src",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "baseUrl": "./"
+  },
+  "exclude": [
+    "node_modules",
+    "example"
+  ]
+}
